@@ -1,0 +1,47 @@
+/* Place custom css here. */
+time.text-xs.antialiased.opacity-60 {
+  display: none !important;
+}
+#starAnim {
+  display: block;
+  width: 100% !important;
+  height: auto !important;
+  margin: 0 auto;
+}
+
+.video-shortcode {
+  max-width: 100%;
+  height: auto;
+}
+
+.accordion-button {
+  background: none;
+  border: none;
+  width: 100%;
+  text-align: left;
+  padding: 1rem 0;
+  font-size: 1rem;
+  cursor: pointer;
+  border-bottom: 1px solid #ddd;
+  font-weight: 500;
+  color: #222;
+}
+
+.accordion-content {
+  display: none;
+  padding: 0.5rem 0 1rem 0;
+  font-size: 0.95rem;
+  color: #444;
+}
+
+.accordion-item.active .accordion-content {
+  display: block;
+}
+
+.accordion-button:hover {
+  color: #000;
+}
+
+.accordion-content {
+  transition: all 0.25s ease-out;
+}

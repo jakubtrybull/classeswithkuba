@@ -1,0 +1,23 @@
+baseURL = "https://example.org/"
+title = 'Classes with Kuba'
+author = "Jakub Trybull"
+copyright = "© 2025, Jakub Trybull"
+languageCode = "en"
+DefaultContentLanguage = "en"
+enableInlineShortcodes = true
+ignoreErrors = ["error-remote-getjson"]
+enableEmoji = true
+
+# ------------------------------
+theme = "paper"
+
+[params]
+  customCSS = ["css/custom.css"]
+  showDate = false
+  color = 'linen'
+  avatar = 'jakubtrybull@gmail.com'
+  name = 'Jakub Trybull'
+  bio = 'Quality teaching since 2022.'
+
+[security]
+  enableInlineShortcodes = true
