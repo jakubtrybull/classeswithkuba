@@ -1,6 +1,8 @@
 /* Place custom css here. */
+/* Hide post dates in Paper theme */
 time.text-xs.antialiased.opacity-60 {
-  display: none !important;
+    display: none !important;
+}
 }
 #starAnim {
   display: block;
