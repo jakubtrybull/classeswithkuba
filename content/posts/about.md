@@ -1,6 +1,6 @@
 +++
 title = "💡 About"
-description = "Classes with Kuba"
+description = "Private tutoring in Economics, Management, and related subjects for A-level, IB, and university students."
 date = "2025-09-01T20:20:20+01:00"
 author = "Jakub Trybull"
 +++
@@ -22,7 +22,7 @@ I have been tutoring since 2022 and provide high-quality engaging sessions in *E
 
 In my spare time I enjoy reading, drawing and hiking.
 
----
+![Question Mark Graphic](/img/pencil.jpg)
 
 Take a look at what my previous students thought of our sessions.  
 Then feel free to contact me for a [free consultation](/posts/contact) on how I could help you excel! 🚀

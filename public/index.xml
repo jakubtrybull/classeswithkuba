@@ -1,48 +1,82 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Classes with Kuba</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on Classes with Kuba</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <copyright>© 2025, Jakub Trybull</copyright>
-    <lastBuildDate>Mon, 01 Sep 2025 20:20:20 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>💡 About</title>
-      <link>http://localhost:1313/posts/about/</link>
-      <pubDate>Mon, 01 Sep 2025 20:20:20 +0100</pubDate>
-      <guid>http://localhost:1313/posts/about/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/grad.jpg&#34; alt=&#34;Profile of Kuba&#34;&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;hello&#34;&gt;Hello!&lt;/h3&gt;&#xA;&lt;p&gt;My name is Jakub Trybull, but everybody calls me Kuba.&lt;/p&gt;&#xA;&lt;p&gt;I am a recent graduate from the &lt;strong&gt;University of Oxford&lt;/strong&gt; in BA Economics and Management.&#xA;Then after a year&amp;rsquo;s language immersion in Paris, I am enrolled in research Masters in Sociology at the &lt;em&gt;École des Hautes Études en Sciences Sociales&lt;/em&gt; (EHESS).&lt;/p&gt;&#xA;&lt;p&gt;Before Oxford, I had the privilege of studying a variety of beloved courses as part of the &lt;em&gt;International Baccalaureate Diploma Programme&lt;/em&gt;. I focused on Maths, Physics and Economics, alongside studying French, English Literature and Theatre. As you might be able to tell, I am a generalist and interested in inter-disciplinary studies!&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🎓 Services</title>
-      <link>http://localhost:1313/posts/services/</link>
-      <pubDate>Mon, 01 Sep 2025 08:08:08 +0100</pubDate>
-      <guid>http://localhost:1313/posts/services/</guid>
-      <description>&lt;p&gt;Instead of a specific programme or set of lessons, what I offer my students is &lt;em&gt;tailored tutoring&lt;/em&gt; to fit their needs and help them excel.&lt;/p&gt;&#xA;&lt;p&gt;Whether you&amp;rsquo;re aiming for the top grades, or need an extra hand outside the classroom, I fit and adapt our sessions based on how you learn best.&lt;/p&gt;&#xA;&lt;h4 id=&#34;subjects-offered&#34;&gt;Subjects offered&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Economics&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;em&gt;Oxford Admissions&lt;/em&gt;&lt;/li&gt;&#xA;&lt;li&gt;Mathematics (&amp;amp; Statistics)&lt;/li&gt;&#xA;&lt;li&gt;Business Studies&lt;/li&gt;&#xA;&lt;li&gt;English as a Foreign Language&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;tutoring-formats&#34;&gt;Tutoring formats&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;em&gt;One-on-One Tutorials&lt;/em&gt; – Personalised lessons focused on your strengths and challenges.&lt;/li&gt;&#xA;&lt;li&gt;&lt;em&gt;Group Sessions&lt;/em&gt; – Collaborative learning for small groups (usually in breaks before exams).&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Online&lt;/strong&gt; through my own tech ecosystem (video meeting and collaborative whiteboard).&lt;br&gt;&#xA;*In-person sessions available in Paris.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;why-choose-me&#34;&gt;Why choose me?&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Experienced and Knowledgeable&lt;/strong&gt; - Recent Oxford graduate with hands-on experience in Economics and Management.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Customised Approach&lt;/strong&gt; – Lessons designed to match your learning style.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Proven Results&lt;/strong&gt; – &lt;em&gt;All&lt;/em&gt; my students have improved their grades and confidence (see Testimonials).&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/bulb.png&#34; alt=&#34;light bulb graphic&#34;&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🌟 Testimonials</title>
-      <link>http://localhost:1313/posts/testimonials/</link>
-      <pubDate>Mon, 01 Sep 2025 05:05:05 +0100</pubDate>
-      <guid>http://localhost:1313/posts/testimonials/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/rating.png&#34; alt=&#34;4.91/5&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/1.jpg&#34; alt=&#34;Testimonial 1&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/2.jpg&#34; alt=&#34;Testimonial 2 and 3&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/3.jpg&#34; alt=&#34;Testimonial 4 and 5&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/success.jpg&#34; alt=&#34;100% would recommend to a family member or friend. 100% reported success rate.&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/4.jpg&#34; alt=&#34;Testimonial 6 and 7&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/5.jpg&#34; alt=&#34;Testimonial 8 and 9&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/6.jpg&#34; alt=&#34;Testimonial 10 and 11&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;^ All data and testimonies have been presented in full, without omission or alteration.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>❓ FAQs</title>
-      <link>http://localhost:1313/posts/faq/</link>
-      <pubDate>Mon, 01 Sep 2025 03:03:03 +0100</pubDate>
-      <guid>http://localhost:1313/posts/faq/</guid>
-      <description>&lt;h3 id=&#34;your-frequently-asked-questions-answered&#34;&gt;Your frequently asked questions, answered.&lt;/h3&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/question.jpg&#34; alt=&#34;Question Mark Graphic&#34;&gt;&#xA;&lt;strong&gt;What subjects and levels do you tutor?&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;I specialize in Economics, Management, and related mathematics for A-level, IB, and university-level students. I also teach English as a Foreign Language (in English) and can speak French.&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;How are tutoring sessions structured?&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Sessions are tailored to your goals. Typically, we review key concepts, work through exercises, and assign practice tasks. Of course, exams as well as holidays are taken into consideration in my planning.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Contact</title>
-      <link>http://localhost:1313/posts/contact/</link>
-      <pubDate>Mon, 01 Sep 2025 01:01:01 +0100</pubDate>
-      <guid>http://localhost:1313/posts/contact/</guid>
-      <description>&lt;h2 id=&#34;uh-oh-the-button-didn&#34;&gt;&lt;a href=&#34;https://calendly.com/jakubtrybull/introductory-call&#34;&gt;&lt;img src=&#34;http://localhost:1313/img/booking.jpg&#34; alt=&#34;Uh oh, the button didn&amp;rsquo;t load! Fear not you can still book your free consultation using this link:&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;(After which you should have my contact details, if you have further queries.)&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Classes with Kuba</title><link>https://example.org/</link><description>Recent content on Classes with Kuba</description><generator>Hugo</generator><language>en</language><copyright>© 2025, Jakub Trybull</copyright><lastBuildDate>Mon, 01 Sep 2025 20:20:20 +0100</lastBuildDate><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml"/><item><title>💡 About</title><link>https://example.org/posts/about/</link><pubDate>Mon, 01 Sep 2025 20:20:20 +0100</pubDate><guid>https://example.org/posts/about/</guid><description>&lt;p&gt;&lt;img src="https://example.org/img/grad.jpg" alt="Profile of Kuba"&gt;&lt;/p&gt;
+&lt;h3 id="hello"&gt;Hello!&lt;/h3&gt;
+&lt;p&gt;My name is Jakub Trybull, but everybody calls me Kuba.&lt;/p&gt;
+&lt;p&gt;I am a recent graduate from the &lt;strong&gt;University of Oxford&lt;/strong&gt; in BA Economics and Management.
+Then after a year&amp;rsquo;s language immersion in Paris, I am enrolled in research Masters in Sociology at the &lt;em&gt;École des Hautes Études en Sciences Sociales&lt;/em&gt; (EHESS).&lt;/p&gt;
+&lt;p&gt;Before Oxford, I had the privilege of studying a variety of beloved courses as part of the &lt;em&gt;International Baccalaureate Diploma Programme&lt;/em&gt;. I focused on Maths, Physics and Economics, alongside studying French, English Literature and Theatre. As you might be able to tell, I am a generalist and interested in inter-disciplinary studies!&lt;/p&gt;</description></item><item><title>🎓 Services</title><link>https://example.org/posts/services/</link><pubDate>Mon, 01 Sep 2025 08:08:08 +0100</pubDate><guid>https://example.org/posts/services/</guid><description>&lt;p&gt;Instead of a specific programme or set of lessons, what I offer my students is &lt;em&gt;tailored tutoring&lt;/em&gt; to fit their needs and help them excel.&lt;/p&gt;
+&lt;p&gt;Whether you&amp;rsquo;re aiming for the top grades, or need an extra hand outside the classroom, I fit and adapt our sessions based on how you learn best.&lt;/p&gt;
+&lt;h4 id="subjects-offered"&gt;Subjects offered&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Economics&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Oxford Admissions&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Mathematics (&amp;amp; Statistics)&lt;/li&gt;
+&lt;li&gt;Business Studies&lt;/li&gt;
+&lt;li&gt;English as a Foreign Language&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id="tutoring-formats"&gt;Tutoring formats&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;One-on-One Tutorials&lt;/em&gt; – Personalised lessons focused on your strengths and challenges.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Group Sessions&lt;/em&gt; – Collaborative learning for small groups (usually in breaks before exams).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Online&lt;/strong&gt; through my own tech ecosystem (video meeting and collaborative whiteboard).&lt;br&gt;
+*In-person sessions available in Paris.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id="why-choose-me"&gt;Why choose me?&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Experienced and Knowledgeable&lt;/strong&gt; - Recent Oxford graduate with hands-on experience in Economics and Management.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Customised Approach&lt;/strong&gt; – Lessons designed to match your learning style.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Proven Results&lt;/strong&gt; – &lt;em&gt;All&lt;/em&gt; my students have improved their grades and confidence (see Testimonials).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src="https://example.org/img/bulb.png" alt="light bulb graphic"&gt;&lt;/p&gt;</description></item><item><title>🌟 Testimonials</title><link>https://example.org/posts/testimonials/</link><pubDate>Mon, 01 Sep 2025 05:05:05 +0100</pubDate><guid>https://example.org/posts/testimonials/</guid><description>&lt;p&gt;&lt;video 
+autoplay 
+muted 
+playsinline 
+preload="auto" 
+style="width: auto; height: auto;"&gt;
+&lt;source src="https://example.org/videos/stars.webm" type="video/webm"&gt;
+&lt;img src="https://example.org/img/rating.png" alt="4.91/5"&gt;
+&lt;/video&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://example.org/img/1.jpg" alt="Testimonial 1"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://example.org/img/2.jpg" alt="Testimonial 2 and 3"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://example.org/img/3.jpg" alt="Testimonial 4 and 5"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://example.org/img/success.jpg" alt="100% would recommend to a family member or friend. 100% reported success rate."&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://example.org/img/4.jpg" alt="Testimonial 6 and 7"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://example.org/img/5.jpg" alt="Testimonial 8 and 9"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://example.org/img/6.jpg" alt="Testimonial 10 and 11"&gt;&lt;/p&gt;
+&lt;p&gt;^ All data and testimonies have been presented in full, without omission or alteration.&lt;/p&gt;</description></item><item><title>❓ FAQs</title><link>https://example.org/posts/faq/</link><pubDate>Mon, 01 Sep 2025 03:03:03 +0100</pubDate><guid>https://example.org/posts/faq/</guid><description>&lt;h3 id="your-frequently-asked-questions-answered"&gt;Your frequently asked questions, answered.&lt;/h3&gt;
+&lt;div class="accordion"&gt;
+ &lt;div class="accordion-item"&gt;
+ &lt;button class="accordion-button"&gt;What subjects and levels do you tutor?&lt;/button&gt;
+ &lt;div class="accordion-content"&gt;
+ &lt;p&gt;I specialize in Economics, Management, and related mathematics for A-level, IB, and university-level students. I also teach English as a Foreign Language (in English) and can speak French.&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="accordion-item"&gt;
+ &lt;button class="accordion-button"&gt;How are tutoring sessions structured?&lt;/button&gt;
+ &lt;div class="accordion-content"&gt;
+ &lt;p&gt;Sessions are tailored to your goals. Typically, we review key concepts, work through exercises, and assign practice tasks. Of course, exams as well as holidays are taken into consideration in my planning.&lt;/p&gt;</description></item><item><title>Contact</title><link>https://example.org/posts/contact/</link><pubDate>Mon, 01 Sep 2025 01:01:01 +0100</pubDate><guid>https://example.org/posts/contact/</guid><description>&lt;section class="booking-section" style="text-align: center; margin-top: 2rem;"&gt;
+ &lt;!-- Booking text --&gt;
+ &lt;p style="color: #004AAD; font-style: italic; font-size: 1.5rem;"&gt;
+ Book your &lt;span style="color: #A69408; font-weight: bold;"&gt;free&lt;/span&gt; video consultation! :
+ &lt;/p&gt;
+ &lt;!-- Book button --&gt;
+ &lt;a href="https://calendly.com/jakubtrybull/introductory-call" target="_blank" class="book-button"&gt;
+ &lt;img src="https://example.org/img/bookbutton.jpg" alt="Book" class="book-img"&gt;
+ &lt;span class="book-text"&gt;Book&lt;/span&gt;
+ &lt;/a&gt;
+&lt;/section&gt;
+&lt;!-- JS fallback for image --&gt;
+&lt;script&gt;
+document.addEventListener("DOMContentLoaded", function() {
+ const buttons = document.querySelectorAll(".book-button");
+ buttons.forEach(btn =&gt; {
+ const img = btn.querySelector("img");
+ const text = btn.querySelector(".book-text");
+
+ // Show text if image fails to load
+ img.onerror = () =&gt; {
+ text.style.display = "block";
+ };
+ });
+});
+&lt;/script&gt;- 
+&lt;p&gt;(After which you should have my contact details, if you have further queries.)&lt;/p&gt;</description></item></channel></rss>

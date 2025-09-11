@@ -5,6 +5,7 @@ copyright = "© 2025, Jakub Trybull"
 languageCode = "en"
 DefaultContentLanguage = "en"
 enableInlineShortcodes = true
+enableRobotsTXT = true
 ignoreErrors = ["error-remote-getjson"]
 enableEmoji = true
 
@@ -18,6 +19,13 @@ theme = "paper"
   avatar = 'jakubtrybull@gmail.com'
   name = 'Jakub Trybull'
   bio = 'Quality teaching since 2022.'
+  favicon = "icon.ico"  
 
 [security]
   enableInlineShortcodes = true
+
+[markup.goldmark.renderer]
+  unsafe = true
+  
+[minify]
+  minifyOutput = true

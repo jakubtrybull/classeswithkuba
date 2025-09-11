@@ -1,0 +1,105 @@
+/* Place custom css here. */
+/* Hide post dates in Paper theme */
+time.text-xs.antialiased.opacity-60 {
+    display: none !important;
+}
+
+#starAnim {
+  display: block;
+  width: 100% !important;
+  height: auto !important;
+  margin: 0 auto;
+}
+
+.video-shortcode {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Accordion button styling */
+.accordion-button {
+  position: relative; /* needed for chevron */
+  background: none;
+  border: none;
+  width: 100%;
+  text-align: left;
+  padding: 1rem 0;
+  font-size: 1rem;
+  cursor: pointer;
+  border-bottom: 1px solid; /* uses theme border color */
+  font-weight: 500;
+  transition: color 0.2s ease, border-color 0.2s ease;
+}
+
+/* Chevron using pseudo-element */
+.accordion-button::after {
+  content: "►";
+  position: absolute;
+  right: 0;
+  transition: transform 0.3s ease;
+  font-size: 0.9rem;
+}
+
+/* Rotate chevron when active */
+.accordion-item.active .accordion-button::after {
+  transform: rotate(90deg);
+}
+
+/* Hover effect */
+.accordion-button:hover {
+  /* No color specified, inherits theme */
+}
+
+/* Accordion content hidden by default */
+.accordion-content {
+  max-height: 0;
+  overflow: hidden;
+  font-size: 0.95rem;
+  transition: max-height 0.3s ease, padding 0.3s ease;
+  padding: 0 0;
+}
+
+/* Expanded item */
+.accordion-item.active .accordion-content {
+  max-height: 500px;
+  padding: 0.5rem 0 1rem 0;
+}
+
+
+/* Book button container */
+.book-button {
+  display: inline-block;
+  text-align: center;
+  transition: transform 0.2s ease;
+  text-decoration: none;
+  margin-top: 1rem;
+  position: relative;
+}
+
+/* Hover effect: slight zoom */
+.book-button:hover {
+  transform: scale(1.05);
+}
+
+/* Book image */
+.book-img {
+  display: block;
+  width: 500px; /* adjust size */
+  margin: 0 auto;
+}
+
+/* Book text (hidden by default, only shows if image fails) */
+.book-text {
+  display: none;
+  margin-top: 0.5rem;
+  font-weight: 500;
+  font-style: italic;
+  color: #004AAD; /* default blue */
+  transition: color 0.2s ease, font-weight 0.2s ease;
+}
+
+/* Hover effect for text */
+.book-button:hover .book-text {
+  color: #A69408;
+  font-weight: bold;
+}

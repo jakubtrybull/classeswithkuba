@@ -2,7 +2,7 @@
 author = "Jakub Trybull"
 title = "🎓 Services"
 date = "2025-09-01T08:08:08+01:00"
-description = "Testimonials"
+description = "Private tutoring in Economics, Management, and related subjects for A-level, IB, and university students."
 +++
 
 Instead of a specific programme or set of lessons, what I offer my students is *tailored tutoring* to fit their needs and help them excel.

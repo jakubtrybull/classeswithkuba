@@ -2,12 +2,19 @@
 author = "Jakub Trybull"
 title = "🌟 Testimonials"
 date = "2025-09-01T05:05:05+01:00"
-description = "Testimonials"
+description = "Private tutoring in Economics, Management, and related subjects for A-level, IB, and university students."
 +++
 
-{{< video src="/videos/stars.webm" autoplay="true" controls="false" loop="false" >}}
+<video 
+    autoplay 
+    muted 
+    playsinline 
+    preload="auto" 
+    style="width: auto; height: auto;">
+    <source src="/videos/stars.webm" type="video/webm">
+    ![4.91/5](/img/rating.png)
+</video>
 
-![4.91/5](/img/rating.png)
 
 ![Testimonial 1](/img/1.jpg)
 
