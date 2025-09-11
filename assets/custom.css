@@ -84,7 +84,7 @@ time.text-xs.antialiased.opacity-60 {
 /* Book image */
 .book-img {
   display: block;
-  width: 500px; /* adjust size */
+  width: 300px; /* adjust size */
   margin: 0 auto;
 }
 
